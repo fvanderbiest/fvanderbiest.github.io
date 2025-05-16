@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Francois Van Der Biest
+N:Van Der Biest;Francois;;;
+item1.EMAIL;TYPE=INTERNET:francois.vanderbiest@camptocamp.com
+item1.X-ABLabel:
+TEL;TYPE=CELL:+33 7 81 90 00 79
+ORG:Camptocamp France
+TITLE:Project Manager - Data Infrastructures
+END:VCARD
